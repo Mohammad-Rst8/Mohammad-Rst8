@@ -43,7 +43,7 @@
 <hr>
 
 ### Some Projects:
-🖱[Captcha Generator]((https://mohammad-rst8.github.io/Captcha-Code/)) It is a security system and evaluation process used to prevent some malicious attacks by Internet bots.<br>
+🖱[Captcha Generator](https://mohammad-rst8.github.io/Captcha-Code/) It is a security system and evaluation process used to prevent some malicious attacks by Internet bots.<br>
 🤵[Personal page](https://mohammad668.github.io/langing-page-example/) The personal page I made with html and css.
 
 🎧[Music Player](https://mohammad668.github.io/Project-Music-Player/) A simple music player built with js.

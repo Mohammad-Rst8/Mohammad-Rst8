@@ -44,13 +44,13 @@
 
 ### Some Projects:
 🖱[Captcha Generator](https://mohammad-rst8.github.io/Captcha-Code/) It is a security system and evaluation process used to prevent some malicious attacks by Internet bots.<br>
-🤵[Personal page](https://mohammad668.github.io/langing-page-example/) The personal page I made with html and css.
+🤵[Chinese-Kitchen](https://mohammad-rst8.github.io/chinese-kitchen/) The personal page I made with html and css.
 
-🎧[Music Player](https://mohammad668.github.io/Project-Music-Player/) A simple music player built with js.
+🎧[Music Player](https://mohammad-rst8.github.io/Music-player/) A simple music player built with js.
 <h2>⚡️ &nbsp; Github Stats</h2>
 <div display="flex" >
-<img src="https://github-readme-stats.vercel.app/api?username=mohammad668&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad668" />
+<img src="https://github-readme-stats.vercel.app/api?username=Mohammad-Rst8&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-Rst8" />
   
 </div>
 

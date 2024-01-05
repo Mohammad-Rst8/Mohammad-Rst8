@@ -49,7 +49,7 @@
 🎧[Music Player](https://mohammad-rst8.github.io/Music-player/) A simple music player built with js.
 <h2>⚡️ &nbsp; Github Stats</h2>
 <div display="flex" >
-<img src="https://github-readme-stats.vercel.app/api?username=Mohammad-Rst8&show_icons=true&theme=radical" />
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-Rst8" />
   
 </div>
